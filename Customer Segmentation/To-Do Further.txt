@@ -1,7 +1,0 @@
-Bertopic on entire dataset
-
-KMeans clustering gets extremely skewed if you drop customerID before clustering -> See how to fix this, Very Important
-
-Justify your n_clusters in k-means clustering based on silhouette score (iteration) -> https://www.kaggle.com/code/fabiendaniel/customer-segmentation?scriptVersionId=11888176&cellId=68
-
-Relook at whether you scale the cols in the correct way
