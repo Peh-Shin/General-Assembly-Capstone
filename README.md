@@ -10,7 +10,7 @@ The aim of my analysis will be to:
 ---
 
 ## Dataset 
-The dataset is from kaggle [here] (https://www.kaggle.com/datasets/carrie1/ecommerce-data) 
+The dataset is from kaggle [here](https://www.kaggle.com/datasets/carrie1/ecommerce-data) 
 ---
 
 ## Analysis Methodology
