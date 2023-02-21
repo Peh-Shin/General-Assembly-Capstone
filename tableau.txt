@@ -1,0 +1,18 @@
+Goal: Think of answering 5W1H questions of your dependent variable through your visualizations
+
+Workflow:
+1. You can create many sheets, and highlight those you want to refer back to with green
+2. Good idea to have a big count number of your dep. var. in your final dashboard
+
+Pre-processing:
+1. Convert date/time fields from string to date/time type if needed
+2. If you want to visualize measures (under the line divider), you need to shift the measures to above the divider such that they are data fields
+3. 'Add to context' for filters is used to set the order that filters are performed, rather than performing all the filtering together. Filters added to context will filter those fields first before generating chart
+
+'Filters' tab - You can apply 'global' filter to a field across all sheets . A cylinder will appear beside the field
+
+Visualizations:
+- You can split up date fields to year/month/... to for cross-comparison across diff time periods
+- Good idea to use Excalidraw to plan out the layout of your dashboard before creating it
+- Use containers
+- Little funnel option beside a chart on dashboard is for user interactivity. That chart will be used as a 'filter' for other charts when a user clicks on one aspect of the chart
